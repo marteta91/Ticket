@@ -1,0 +1,38 @@
+img{
+    width: 4em;
+    height: 4em;
+    border-radius: 3em;
+    margin-right: 3em;
+}
+.prod_restaurante{
+    height: 30vh;
+    padding-top: 9em;
+    background-image: url(https://i.pinimg.com/564x/af/d0/5d/afd05d0e786f97eb234c62b122a27436.jpg);
+     background-size: cover;
+    display: flex;
+    justify-content: center
+;}
+
+.ticket{
+    margin-top: 2em;
+    border: 2px solid rgb(95, 57, 7);
+    margin-left: 10%;
+    background-color: rgba(244, 232, 227, 0.543);
+    width: 25em;
+    
+}
+h2{
+    display: flex;
+    justify-content: center;
+    color: rgb(95, 57, 7);
+    border-bottom: 1px solid rgb(95, 57, 7);
+}
+
+li{
+    list-style: none;
+    margin: 1em;
+}
+.containerTicket{
+    justify-content: center;
+    display: flex;
+}
